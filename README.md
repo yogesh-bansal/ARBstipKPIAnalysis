@@ -8,9 +8,9 @@ Analyzing STIP grant recipient KPIs from OpenBlockLabs using interactive Paralle
 ### Description
 OpenBlock Labs has teamed up with Arbitrum to provide incentive modeling for recipeints of the DAO’s Short-Term Incentive Program (STIP). The aim of their data-driven platform is to provide dedicated incentive engineering, that fosters sustainable growth with decentralized protocols. As part of their mandate, they’ve produced two dashboards tracking the performance of programs that participated in the program.  
 
-## [Data for the Round 1 comes from here:](https://www.openblocklabs.com/app/arbitrum/overview) <<< Click Here
+### [Data for the Round 1 comes from here:](https://www.openblocklabs.com/app/arbitrum/overview) <<< Click Here
 
-## [Data for the backfund round came from here:](https://www.openblocklabs.com/app/arbitrum/backfund/overview) <<< Click Here
+### [Data for the backfund round came from here:](https://www.openblocklabs.com/app/arbitrum/backfund/overview) <<< Click Here
 
 <img src="www/img1.png" align="center"/>
 <div align="center">Data Structure</div>
