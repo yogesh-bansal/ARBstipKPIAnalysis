@@ -21,7 +21,7 @@ OpenBlock Labs has teamed up with Arbitrum to provide incentive modeling for rec
 
 ### Analysis STIP Round 1
 
-### [Analysis STIP Round 1 Interactive Graph:]() <<< Click Here
+### [Analysis STIP Round 1 Interactive Graph:](https://yogesh-bansal.github.io/ARBstipKPIAnalysis/STIP%20Round%201%20Interactive.html) <<< Click Here
 
 The data from this dashboard tracking KPIs was extracted and visualized as parallel coordinate plots for easier interpretation. These growth metrics have been normalized by claimed ARB tokens (e.g., TVL Change / Claimed ARB tokens in USD). Each grantee's data is analyzed using its specific cutoff date that marks the start of the incentives distribution. They also included a 30 day moving average as well. Both the “Round 1” and “BackFunded” phases of the Short Term Incentive Program saw programs claim tokens that were then used to promote activity on their platform. For both phases, OpenBlock tracked the change in TVL, transaction volume, platform fees and network fees.  The metrics ultimately track how much value is locked in these protocols, how many people are utilizing them, and how much money are they generating for the protocol themselves and for Arbitrum. 
 
@@ -43,7 +43,7 @@ This highlights how Pendle claimed a relatively small amount of $ARB, but had th
 
 ### Analysis STIP Backfunding
 
-### [Analysis STIP Backfunding Interactive Graph:]() <<< Click Here
+### [Analysis STIP Backfunding Interactive Graph:](https://yogesh-bansal.github.io/ARBstipKPIAnalysis/STIP%20Backfund%20Interactive.html) <<< Click Here
 
 The round of “BackFunded”  projects represent those approved for $23,000,000 after missing the initial proposal.  These protocols can be found in the graph below.
 
