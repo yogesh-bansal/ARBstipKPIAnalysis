@@ -21,6 +21,8 @@ OpenBlock Labs has teamed up with Arbitrum to provide incentive modeling for rec
 
 ### Analysis STIP Round 1
 
+### [Analysis STIP Round 1 Interactive Graph:]() <<< Click Here
+
 The data from this dashboard tracking KPIs was extracted and visualized as parallel coordinate plots for easier interpretation. These growth metrics have been normalized by claimed ARB tokens (e.g., TVL Change / Claimed ARB tokens in USD). Each grantee's data is analyzed using its specific cutoff date that marks the start of the incentives distribution. They also included a 30 day moving average as well. Both the “Round 1” and “BackFunded” phases of the Short Term Incentive Program saw programs claim tokens that were then used to promote activity on their platform. For both phases, OpenBlock tracked the change in TVL, transaction volume, platform fees and network fees.  The metrics ultimately track how much value is locked in these protocols, how many people are utilizing them, and how much money are they generating for the protocol themselves and for Arbitrum. 
 
 <img src="www/img2.png" align="center"/>
@@ -37,11 +39,11 @@ With key KPI metrics on the x-axis and normalized values on the y-axis, the para
 
 This highlights how Pendle claimed a relatively small amount of $ARB, but had the largest positive TVL change.  Vertex, similarly, had the highest uptick in volume as a result of their STIP program, while GMX had the highest fee change of all of the Round1 projects tracked. To investigate further, please view the following interactive graph.
 
-## [Analysis STIP Round 1 Interactive Graph:]() <<< Click Here
-
 <hr>
 
 ### Analysis STIP Backfunding
+
+### [Analysis STIP Backfunding Interactive Graph:]() <<< Click Here
 
 The round of “BackFunded”  projects represent those approved for $23,000,000 after missing the initial proposal.  These protocols can be found in the graph below.
 
@@ -58,8 +60,6 @@ Like the first round, we can subset the groups to better see the higher performi
 &nbsp;
 
 Here we see Solv Protocol, with the highest performing TVL changes, WooFi with the highest volume, and the Gains Netowrk with the highest fee accrual.
-
-## [Analysis STIP Backfunding Interactive Graph:]() <<< Click Here
 
 <hr>
 
